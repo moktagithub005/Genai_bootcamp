@@ -1,9 +1,11 @@
 ipykernel
 langchain
-langchin-community
+langchain-community
 pypdf
 beautifulsoup4
 arxive
 requests
 python-dotenv
 openai
+ollama 
+chromadb
