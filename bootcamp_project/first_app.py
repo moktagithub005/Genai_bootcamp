@@ -28,7 +28,7 @@ st.write("this is your very first chatbot built in bootcamp")
 ## create a input box
 input_text=st.text_input("ask me anything")
 
-#llm=llama(model="gemma3:1b")
+#llm=ollama(model="gemma3:1b")
 from langchain_openai import ChatOpenAI
 llm=ChatOpenAI(
     model="gpt-4o",
